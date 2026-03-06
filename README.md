@@ -118,10 +118,10 @@
     <div class="photo-grid">
     
         <div class="photo-card">
-            <img src="111.jpg" alt="Ảnh 1"> <h3>ngón tay kì kì</h3>
+            <img src="111.jpg" alt="Ảnh 1"> <h3>chụp lúc nào không biết luôn tạm được</h3>
         </div>
         <div class="photo-card">
-            <img src="222.jpg" alt="Ảnh 2"> <h3>con vợ quá đẹp</h3>
+            <img src="222.jpg" alt="Ảnh 2"> <h3>đề nghị nên chụp mấy tấm xinh như vầy</h3>
         </div>
     </div>
 
